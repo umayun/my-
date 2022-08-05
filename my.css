@@ -52,3 +52,11 @@ bottom: auto;
 color: dimgray;
 background-color: rgb(54, 238, 146);
 }
+#news{ text-align: center;}
+.v{
+    border: solid ;
+    padding: 10px 10px 10px 10px ;
+    margin: 0px 10px ;
+    border: 0px 13px ;
+    background-color: rgb(210, 217, 224);
+}
