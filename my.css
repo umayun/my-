@@ -1,0 +1,54 @@
+#p{
+    text-align: center;
+    color: darkslategray; 
+    background-color: slategrey;
+    margin: 0px 10px ;
+    border: 0px 10px ;
+    border: solid teal ;
+}
+.a{
+
+    padding: 5px 10px ;
+    border: 0px 5px ;
+    border: solid teal  ;
+    color: lightslategrey;
+  
+}
+.w{
+    border: solid;
+    padding: 0px 5px ;
+    background-color: darkcyan;
+    margin: 0px 5px ;
+
+}
+#o{
+text-align: center;
+color: darkcyan;
+margin: 15px 5px ;
+padding: 0px 5px ;
+border: solid ;
+border: 0px 5px ;
+}
+.c{
+    padding: 5px 5px ;
+    background-color: darkcyan;
+    margin: auto;
+    border: 10px 20px  ;
+}
+
+h2{
+    text-align: center;
+}
+
+.d{
+    border:  solid;
+    padding: 5px 10px;
+    margin: 20px 10p ;
+    border: 15px 20px ;
+}
+.l{
+text-align: right;
+bottom: auto;
+color: dimgray;
+background-color: rgb(54, 238, 146);
+}
