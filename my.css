@@ -60,3 +60,10 @@ background-color: rgb(54, 238, 146);
     border: 0px 13px ;
     background-color: rgb(210, 217, 224);
 }
+.g{
+    border: solid;
+    padding: 0px 10px ;
+    background-color: cadetblue;
+    border: 10px 15px ;
+    margin: 20px 10px ;
+}
